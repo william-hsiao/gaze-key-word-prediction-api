@@ -2,3 +2,4 @@
 /mongodb
 run.txt
 w*.txt
+.node-dev.json
